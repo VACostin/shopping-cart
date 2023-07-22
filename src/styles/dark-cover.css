@@ -1,0 +1,9 @@
+#darkCover {
+  position:fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  opacity: 0.6;
+  transition: left 0.85s ease-in-out 0s;
+}

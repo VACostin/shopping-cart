@@ -1,0 +1,15 @@
+.items{}
+
+.imgWraps{}
+
+.imgWraps > img{
+  width: 100px;
+  height: 100px;
+}
+
+.descriptions{}
+.prices{}
+
+.items button {
+
+}
